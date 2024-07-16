@@ -10,5 +10,7 @@ Instruções:
     Utilize useState para armazenar a largura atual da janela.
     Utilize useEffect para adicionar e remover um event listener que atualiza o estado sempre que a janela é redimensionada.
     Exiba a largura atual da janela.
+
+Resolvi fazer mostrando a altura da janela também!
     
   Você pode conferir meu resultado através do link: https://alessandra1999.github.io/window-size-reactjs/
